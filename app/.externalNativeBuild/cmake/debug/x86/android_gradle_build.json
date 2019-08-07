@@ -1,0 +1,219 @@
+
+{
+	"buildFiles" : 
+	[
+		"E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\.externalNativeBuild\\cmake\\debug\\x86 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"facedetection-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "facedetection",
+			"buildCommand" : "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\.externalNativeBuild\\cmake\\debug\\x86 --target facedetection",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android18 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -D_ENABLE_INT8 -D_ENABLE_NEON -D_OPENMP -IE:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp -IE:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\opencv2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -O3 -std=c++11  -c ",
+					"src" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/facedetectcnn-floatdata.cpp",
+					"workingDirectory" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android18 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -D_ENABLE_INT8 -D_ENABLE_NEON -D_OPENMP -IE:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp -IE:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\opencv2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -O3 -std=c++11  -c ",
+					"src" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/facedetectcnn-int8data.cpp",
+					"workingDirectory" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android18 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -D_ENABLE_INT8 -D_ENABLE_NEON -D_OPENMP -IE:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp -IE:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\opencv2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -O3 -std=c++11  -c ",
+					"src" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/facedetectcnn-jni.cpp",
+					"workingDirectory" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android18 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -D_ENABLE_INT8 -D_ENABLE_NEON -D_OPENMP -IE:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp -IE:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\opencv2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -O3 -std=c++11  -c ",
+					"src" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/facedetectcnn-model.cpp",
+					"workingDirectory" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android18 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -D_ENABLE_INT8 -D_ENABLE_NEON -D_OPENMP -IE:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp -IE:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\opencv2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -O3 -std=c++11  -c ",
+					"src" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/facedetectcnn.cpp",
+					"workingDirectory" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/.externalNativeBuild/cmake/debug/x86"
+				}
+			],
+			"output" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/.externalNativeBuild/cmake/debug/x86/libfacedetection.a",
+			"toolchain" : "358830773"
+		},
+		"facedetection_shared-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "facedetection_shared",
+			"buildCommand" : "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\.externalNativeBuild\\cmake\\debug\\x86 --target facedetection_shared",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android18 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -D_ENABLE_INT8 -D_ENABLE_NEON -D_OPENMP -Dfacedetection_shared_EXPORTS -IE:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp -IE:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\opencv2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -O3 -std=c++11  -c ",
+					"src" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/facedetectcnn-floatdata.cpp",
+					"workingDirectory" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android18 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -D_ENABLE_INT8 -D_ENABLE_NEON -D_OPENMP -Dfacedetection_shared_EXPORTS -IE:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp -IE:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\opencv2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -O3 -std=c++11  -c ",
+					"src" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/facedetectcnn-int8data.cpp",
+					"workingDirectory" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android18 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -D_ENABLE_INT8 -D_ENABLE_NEON -D_OPENMP -Dfacedetection_shared_EXPORTS -IE:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp -IE:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\opencv2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -O3 -std=c++11  -c ",
+					"src" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/facedetectcnn-jni.cpp",
+					"workingDirectory" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android18 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -D_ENABLE_INT8 -D_ENABLE_NEON -D_OPENMP -Dfacedetection_shared_EXPORTS -IE:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp -IE:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\opencv2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -O3 -std=c++11  -c ",
+					"src" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/facedetectcnn-model.cpp",
+					"workingDirectory" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android18 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -D_ENABLE_INT8 -D_ENABLE_NEON -D_OPENMP -Dfacedetection_shared_EXPORTS -IE:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp -IE:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\opencv2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -O3 -std=c++11  -c ",
+					"src" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/facedetectcnn.cpp",
+					"workingDirectory" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/.externalNativeBuild/cmake/debug/x86"
+				}
+			],
+			"output" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/build/intermediates/cmake/debug/obj/x86/libfacedetection.so",
+			"toolchain" : "358830773"
+		},
+		"libopencv_calib3d-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "libopencv_calib3d",
+			"buildType" : "debug",
+			"output" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/../jniLibs/x86/libopencv_calib3d.a",
+			"toolchain" : "358830773"
+		},
+		"libopencv_core-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "libopencv_core",
+			"buildType" : "debug",
+			"output" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/../jniLibs/x86/libopencv_core.a",
+			"toolchain" : "358830773"
+		},
+		"libopencv_features2d-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "libopencv_features2d",
+			"buildType" : "debug",
+			"output" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/../jniLibs/x86/libopencv_features2d.a",
+			"toolchain" : "358830773"
+		},
+		"libopencv_flann-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "libopencv_flann",
+			"buildType" : "debug",
+			"output" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/../jniLibs/x86/libopencv_flann.a",
+			"toolchain" : "358830773"
+		},
+		"libopencv_highgui-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "libopencv_highgui",
+			"buildType" : "debug",
+			"output" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/../jniLibs/x86/libopencv_highgui.a",
+			"toolchain" : "358830773"
+		},
+		"libopencv_imgcodecs-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "libopencv_imgcodecs",
+			"buildType" : "debug",
+			"output" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/../jniLibs/x86/libopencv_imgcodecs.a",
+			"toolchain" : "358830773"
+		},
+		"libopencv_imgproc-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "libopencv_imgproc",
+			"buildType" : "debug",
+			"output" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/../jniLibs/x86/libopencv_imgproc.a",
+			"toolchain" : "358830773"
+		},
+		"libopencv_java4-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "libopencv_java4",
+			"buildType" : "debug",
+			"output" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/../jniLibs/x86/libopencv_java3.so",
+			"toolchain" : "358830773"
+		},
+		"libopencv_ml-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "libopencv_ml",
+			"buildType" : "debug",
+			"output" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/../jniLibs/x86/libopencv_ml.a",
+			"toolchain" : "358830773"
+		},
+		"libopencv_objdetect-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "libopencv_objdetect",
+			"buildType" : "debug",
+			"output" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/../jniLibs/x86/libopencv_objdetect.a",
+			"toolchain" : "358830773"
+		},
+		"libopencv_photo-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "libopencv_photo",
+			"buildType" : "debug",
+			"output" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/../jniLibs/x86/libopencv_photo.a",
+			"toolchain" : "358830773"
+		},
+		"libopencv_stitching-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "libopencv_stitching",
+			"buildType" : "debug",
+			"output" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/../jniLibs/x86/libopencv_stitching.a",
+			"toolchain" : "358830773"
+		},
+		"libopencv_video-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "libopencv_video",
+			"buildType" : "debug",
+			"output" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/../jniLibs/x86/libopencv_video.a",
+			"toolchain" : "358830773"
+		},
+		"libopencv_videoio-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "libopencv_videoio",
+			"buildType" : "debug",
+			"output" : "E:/Workspace/C++/libfacedetection-master/mobile/Android/app/src/main/cpp/../jniLibs/x86/libopencv_videoio.a",
+			"toolchain" : "358830773"
+		}
+	},
+	"toolchains" : 
+	{
+		"358830773" : 
+		{
+			"cCompilerExecutable" : "C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

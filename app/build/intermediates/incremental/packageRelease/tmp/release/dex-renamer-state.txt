@@ -1,0 +1,4 @@
+#Tue Jul 30 16:59:09 CST 2019
+base.0=D\:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex

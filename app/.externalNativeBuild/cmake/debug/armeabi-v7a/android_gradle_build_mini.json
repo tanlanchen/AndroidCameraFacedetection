@@ -1,0 +1,92 @@
+{
+  "buildFiles": [
+    "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Lenovo\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "libopencv_features2d-Debug-armeabi-v7a": {
+      "artifactName": "libopencv_features2d",
+      "abi": "armeabi-v7a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\armeabi-v7a\\libopencv_features2d.a"
+    },
+    "libopencv_stitching-Debug-armeabi-v7a": {
+      "artifactName": "libopencv_stitching",
+      "abi": "armeabi-v7a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\armeabi-v7a\\libopencv_stitching.a"
+    },
+    "libopencv_imgproc-Debug-armeabi-v7a": {
+      "artifactName": "libopencv_imgproc",
+      "abi": "armeabi-v7a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\armeabi-v7a\\libopencv_imgproc.a"
+    },
+    "libopencv_photo-Debug-armeabi-v7a": {
+      "artifactName": "libopencv_photo",
+      "abi": "armeabi-v7a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\armeabi-v7a\\libopencv_photo.a"
+    },
+    "libopencv_imgcodecs-Debug-armeabi-v7a": {
+      "artifactName": "libopencv_imgcodecs",
+      "abi": "armeabi-v7a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\armeabi-v7a\\libopencv_imgcodecs.a"
+    },
+    "facedetection_shared-Debug-armeabi-v7a": {
+      "artifactName": "facedetection_shared",
+      "buildCommand": "C:\\Users\\Lenovo\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target facedetection_shared",
+      "abi": "armeabi-v7a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libfacedetection.so"
+    },
+    "libopencv_objdetect-Debug-armeabi-v7a": {
+      "artifactName": "libopencv_objdetect",
+      "abi": "armeabi-v7a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\armeabi-v7a\\libopencv_objdetect.a"
+    },
+    "libopencv_calib3d-Debug-armeabi-v7a": {
+      "artifactName": "libopencv_calib3d",
+      "abi": "armeabi-v7a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\armeabi-v7a\\libopencv_calib3d.a"
+    },
+    "libopencv_core-Debug-armeabi-v7a": {
+      "artifactName": "libopencv_core",
+      "abi": "armeabi-v7a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\armeabi-v7a\\libopencv_core.a"
+    },
+    "libopencv_videoio-Debug-armeabi-v7a": {
+      "artifactName": "libopencv_videoio",
+      "abi": "armeabi-v7a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\armeabi-v7a\\libopencv_videoio.a"
+    },
+    "libopencv_video-Debug-armeabi-v7a": {
+      "artifactName": "libopencv_video",
+      "abi": "armeabi-v7a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\armeabi-v7a\\libopencv_video.a"
+    },
+    "libopencv_highgui-Debug-armeabi-v7a": {
+      "artifactName": "libopencv_highgui",
+      "abi": "armeabi-v7a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\armeabi-v7a\\libopencv_highgui.a"
+    },
+    "libopencv_flann-Debug-armeabi-v7a": {
+      "artifactName": "libopencv_flann",
+      "abi": "armeabi-v7a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\armeabi-v7a\\libopencv_flann.a"
+    },
+    "facedetection-Debug-armeabi-v7a": {
+      "artifactName": "facedetection",
+      "buildCommand": "C:\\Users\\Lenovo\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target facedetection",
+      "abi": "armeabi-v7a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a\\libfacedetection.a"
+    },
+    "libopencv_java4-Debug-armeabi-v7a": {
+      "artifactName": "libopencv_java4",
+      "abi": "armeabi-v7a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\armeabi-v7a\\libopencv_java3.so"
+    },
+    "libopencv_ml-Debug-armeabi-v7a": {
+      "artifactName": "libopencv_ml",
+      "abi": "armeabi-v7a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\armeabi-v7a\\libopencv_ml.a"
+    }
+  }
+}

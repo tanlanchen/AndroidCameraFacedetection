@@ -1,0 +1,92 @@
+{
+  "buildFiles": [
+    "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Lenovo\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "libopencv_core-Debug-arm64-v8a": {
+      "artifactName": "libopencv_core",
+      "abi": "arm64-v8a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\arm64-v8a\\libopencv_core.a"
+    },
+    "libopencv_features2d-Debug-arm64-v8a": {
+      "artifactName": "libopencv_features2d",
+      "abi": "arm64-v8a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\arm64-v8a\\libopencv_features2d.a"
+    },
+    "libopencv_highgui-Debug-arm64-v8a": {
+      "artifactName": "libopencv_highgui",
+      "abi": "arm64-v8a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\arm64-v8a\\libopencv_highgui.a"
+    },
+    "libopencv_imgproc-Debug-arm64-v8a": {
+      "artifactName": "libopencv_imgproc",
+      "abi": "arm64-v8a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\arm64-v8a\\libopencv_imgproc.a"
+    },
+    "libopencv_flann-Debug-arm64-v8a": {
+      "artifactName": "libopencv_flann",
+      "abi": "arm64-v8a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\arm64-v8a\\libopencv_flann.a"
+    },
+    "libopencv_photo-Debug-arm64-v8a": {
+      "artifactName": "libopencv_photo",
+      "abi": "arm64-v8a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\arm64-v8a\\libopencv_photo.a"
+    },
+    "libopencv_imgcodecs-Debug-arm64-v8a": {
+      "artifactName": "libopencv_imgcodecs",
+      "abi": "arm64-v8a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\arm64-v8a\\libopencv_imgcodecs.a"
+    },
+    "libopencv_ml-Debug-arm64-v8a": {
+      "artifactName": "libopencv_ml",
+      "abi": "arm64-v8a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\arm64-v8a\\libopencv_ml.a"
+    },
+    "libopencv_java4-Debug-arm64-v8a": {
+      "artifactName": "libopencv_java4",
+      "abi": "arm64-v8a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\arm64-v8a\\libopencv_java3.so"
+    },
+    "libopencv_stitching-Debug-arm64-v8a": {
+      "artifactName": "libopencv_stitching",
+      "abi": "arm64-v8a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\arm64-v8a\\libopencv_stitching.a"
+    },
+    "libopencv_videoio-Debug-arm64-v8a": {
+      "artifactName": "libopencv_videoio",
+      "abi": "arm64-v8a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\arm64-v8a\\libopencv_videoio.a"
+    },
+    "facedetection-Debug-arm64-v8a": {
+      "artifactName": "facedetection",
+      "buildCommand": "C:\\Users\\Lenovo\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target facedetection",
+      "abi": "arm64-v8a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a\\libfacedetection.a"
+    },
+    "libopencv_calib3d-Debug-arm64-v8a": {
+      "artifactName": "libopencv_calib3d",
+      "abi": "arm64-v8a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\arm64-v8a\\libopencv_calib3d.a"
+    },
+    "facedetection_shared-Debug-arm64-v8a": {
+      "artifactName": "facedetection_shared",
+      "buildCommand": "C:\\Users\\Lenovo\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target facedetection_shared",
+      "abi": "arm64-v8a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libfacedetection.so"
+    },
+    "libopencv_video-Debug-arm64-v8a": {
+      "artifactName": "libopencv_video",
+      "abi": "arm64-v8a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\arm64-v8a\\libopencv_video.a"
+    },
+    "libopencv_objdetect-Debug-arm64-v8a": {
+      "artifactName": "libopencv_objdetect",
+      "abi": "arm64-v8a",
+      "output": "D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\arm64-v8a\\libopencv_objdetect.a"
+    }
+  }
+}

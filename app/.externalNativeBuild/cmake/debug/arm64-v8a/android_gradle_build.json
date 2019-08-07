@@ -1,0 +1,219 @@
+
+{
+	"buildFiles" : 
+	[
+		"D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\Lenovo\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"facedetection-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "facedetection",
+			"buildCommand" : "C:\\Users\\Lenovo\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target facedetection",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -D_ENABLE_NEON -D_OPENMP -ID:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp -ID:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\opencv2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -O3 -std=c++11  -c ",
+					"src" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/facedetectcnn-floatdata.cpp",
+					"workingDirectory" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -D_ENABLE_NEON -D_OPENMP -ID:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp -ID:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\opencv2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -O3 -std=c++11  -c ",
+					"src" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/facedetectcnn-int8data.cpp",
+					"workingDirectory" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -D_ENABLE_NEON -D_OPENMP -ID:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp -ID:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\opencv2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -O3 -std=c++11  -c ",
+					"src" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/facedetectcnn-jni.cpp",
+					"workingDirectory" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -D_ENABLE_NEON -D_OPENMP -ID:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp -ID:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\opencv2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -O3 -std=c++11  -c ",
+					"src" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/facedetectcnn-model.cpp",
+					"workingDirectory" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -D_ENABLE_NEON -D_OPENMP -ID:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp -ID:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\opencv2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -O3 -std=c++11  -c ",
+					"src" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/facedetectcnn.cpp",
+					"workingDirectory" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/.externalNativeBuild/cmake/debug/arm64-v8a"
+				}
+			],
+			"output" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/.externalNativeBuild/cmake/debug/arm64-v8a/libfacedetection.a",
+			"toolchain" : "3148831783"
+		},
+		"facedetection_shared-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "facedetection_shared",
+			"buildCommand" : "C:\\Users\\Lenovo\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target facedetection_shared",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -D_ENABLE_NEON -D_OPENMP -Dfacedetection_shared_EXPORTS -ID:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp -ID:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\opencv2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -O3 -std=c++11  -c ",
+					"src" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/facedetectcnn-floatdata.cpp",
+					"workingDirectory" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -D_ENABLE_NEON -D_OPENMP -Dfacedetection_shared_EXPORTS -ID:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp -ID:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\opencv2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -O3 -std=c++11  -c ",
+					"src" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/facedetectcnn-int8data.cpp",
+					"workingDirectory" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -D_ENABLE_NEON -D_OPENMP -Dfacedetection_shared_EXPORTS -ID:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp -ID:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\opencv2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -O3 -std=c++11  -c ",
+					"src" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/facedetectcnn-jni.cpp",
+					"workingDirectory" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -D_ENABLE_NEON -D_OPENMP -Dfacedetection_shared_EXPORTS -ID:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp -ID:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\opencv2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -O3 -std=c++11  -c ",
+					"src" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/facedetectcnn-model.cpp",
+					"workingDirectory" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/.externalNativeBuild/cmake/debug/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -D_ENABLE_NEON -D_OPENMP -Dfacedetection_shared_EXPORTS -ID:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp -ID:\\Aprojects\\Android_face_opengl_opencv\\Android\\app\\src\\main\\cpp\\opencv2  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -O3 -std=c++11  -c ",
+					"src" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/facedetectcnn.cpp",
+					"workingDirectory" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/.externalNativeBuild/cmake/debug/arm64-v8a"
+				}
+			],
+			"output" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/build/intermediates/cmake/debug/obj/arm64-v8a/libfacedetection.so",
+			"toolchain" : "3148831783"
+		},
+		"libopencv_calib3d-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_calib3d",
+			"buildType" : "debug",
+			"output" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/../jniLibs/arm64-v8a/libopencv_calib3d.a",
+			"toolchain" : "3148831783"
+		},
+		"libopencv_core-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_core",
+			"buildType" : "debug",
+			"output" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/../jniLibs/arm64-v8a/libopencv_core.a",
+			"toolchain" : "3148831783"
+		},
+		"libopencv_features2d-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_features2d",
+			"buildType" : "debug",
+			"output" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/../jniLibs/arm64-v8a/libopencv_features2d.a",
+			"toolchain" : "3148831783"
+		},
+		"libopencv_flann-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_flann",
+			"buildType" : "debug",
+			"output" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/../jniLibs/arm64-v8a/libopencv_flann.a",
+			"toolchain" : "3148831783"
+		},
+		"libopencv_highgui-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_highgui",
+			"buildType" : "debug",
+			"output" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/../jniLibs/arm64-v8a/libopencv_highgui.a",
+			"toolchain" : "3148831783"
+		},
+		"libopencv_imgcodecs-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_imgcodecs",
+			"buildType" : "debug",
+			"output" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/../jniLibs/arm64-v8a/libopencv_imgcodecs.a",
+			"toolchain" : "3148831783"
+		},
+		"libopencv_imgproc-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_imgproc",
+			"buildType" : "debug",
+			"output" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/../jniLibs/arm64-v8a/libopencv_imgproc.a",
+			"toolchain" : "3148831783"
+		},
+		"libopencv_java4-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_java4",
+			"buildType" : "debug",
+			"output" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/../jniLibs/arm64-v8a/libopencv_java3.so",
+			"toolchain" : "3148831783"
+		},
+		"libopencv_ml-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_ml",
+			"buildType" : "debug",
+			"output" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/../jniLibs/arm64-v8a/libopencv_ml.a",
+			"toolchain" : "3148831783"
+		},
+		"libopencv_objdetect-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_objdetect",
+			"buildType" : "debug",
+			"output" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/../jniLibs/arm64-v8a/libopencv_objdetect.a",
+			"toolchain" : "3148831783"
+		},
+		"libopencv_photo-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_photo",
+			"buildType" : "debug",
+			"output" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/../jniLibs/arm64-v8a/libopencv_photo.a",
+			"toolchain" : "3148831783"
+		},
+		"libopencv_stitching-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_stitching",
+			"buildType" : "debug",
+			"output" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/../jniLibs/arm64-v8a/libopencv_stitching.a",
+			"toolchain" : "3148831783"
+		},
+		"libopencv_video-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_video",
+			"buildType" : "debug",
+			"output" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/../jniLibs/arm64-v8a/libopencv_video.a",
+			"toolchain" : "3148831783"
+		},
+		"libopencv_videoio-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "libopencv_videoio",
+			"buildType" : "debug",
+			"output" : "D:/Aprojects/Android_face_opengl_opencv/Android/app/src/main/cpp/../jniLibs/arm64-v8a/libopencv_videoio.a",
+			"toolchain" : "3148831783"
+		}
+	},
+	"toolchains" : 
+	{
+		"3148831783" : 
+		{
+			"cCompilerExecutable" : "C:/Users/Lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/Lenovo/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

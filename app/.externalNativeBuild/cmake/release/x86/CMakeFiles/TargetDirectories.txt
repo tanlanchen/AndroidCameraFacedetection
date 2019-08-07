@@ -1,0 +1,4 @@
+E:/Workspace/C++/libfacedetection-master/mobile/Android/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/facedetection.dir
+E:/Workspace/C++/libfacedetection-master/mobile/Android/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/rebuild_cache.dir
+E:/Workspace/C++/libfacedetection-master/mobile/Android/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/facedetection_shared.dir
+E:/Workspace/C++/libfacedetection-master/mobile/Android/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/edit_cache.dir

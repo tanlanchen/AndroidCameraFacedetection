@@ -1,0 +1,21 @@
+# ninja log v5
+2	1231	0	CMakeFiles/facedetection.dir/facedetectcnn-floatdata.cpp.o	f2824100ed986653
+44	1909	0	CMakeFiles/facedetection.dir/facedetectcnn-jni.cpp.o	6b18710512ed1dcf
+36	2016	0	CMakeFiles/facedetection.dir/facedetectcnn-model.cpp.o	b6b96eb5e00dd635
+52	2389	0	CMakeFiles/facedetection.dir/facedetectcnn.cpp.o	d3a40e50055d23e0
+9	2566	0	CMakeFiles/facedetection.dir/facedetectcnn-int8data.cpp.o	c0117a1f56db6936
+2566	2994	0	libfacedetection.a	d8344a2dffba55f5
+3080	4353	0	CMakeFiles/facedetection_shared.dir/facedetectcnn-floatdata.cpp.o	732d6ff669fbd3e2
+3033	4962	0	CMakeFiles/facedetection_shared.dir/facedetectcnn-jni.cpp.o	fc6523f150e59f63
+3040	5066	0	CMakeFiles/facedetection_shared.dir/facedetectcnn-model.cpp.o	cb8663b76678b5e8
+2994	5406	0	CMakeFiles/facedetection_shared.dir/facedetectcnn.cpp.o	c4abafc291c8085e
+3019	5732	0	CMakeFiles/facedetection_shared.dir/facedetectcnn-int8data.cpp.o	9eb209ca108234bf
+5732	6764	0	D:/Aprojects/Android_face_opengl_opencv/Android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libfacedetection.so	9c703a1ef4928e24
+174	2128	0	CMakeFiles/facedetection.dir/facedetectcnn-jni.cpp.o	6b18710512ed1dcf
+2129	3117	0	libfacedetection.a	d8344a2dffba55f5
+3117	4759	0	CMakeFiles/facedetection_shared.dir/facedetectcnn-jni.cpp.o	fc6523f150e59f63
+4760	7295	0	D:/Aprojects/Android_face_opengl_opencv/Android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libfacedetection.so	9c703a1ef4928e24
+87	2255	0	CMakeFiles/facedetection.dir/facedetectcnn-jni.cpp.o	6b18710512ed1dcf
+2256	2787	0	libfacedetection.a	d8344a2dffba55f5
+2787	4483	0	CMakeFiles/facedetection_shared.dir/facedetectcnn-jni.cpp.o	fc6523f150e59f63
+4483	6648	0	D:/Aprojects/Android_face_opengl_opencv/Android/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libfacedetection.so	9c703a1ef4928e24

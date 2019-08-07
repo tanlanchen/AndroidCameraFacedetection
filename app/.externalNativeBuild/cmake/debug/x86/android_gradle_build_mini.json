@@ -1,0 +1,92 @@
+{
+  "buildFiles": [
+    "E:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\.externalNativeBuild\\cmake\\debug\\x86 --target clean"
+  ],
+  "libraries": {
+    "libopencv_calib3d-Debug-x86": {
+      "artifactName": "libopencv_calib3d",
+      "abi": "x86",
+      "output": "E:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\x86\\libopencv_calib3d.a"
+    },
+    "libopencv_features2d-Debug-x86": {
+      "artifactName": "libopencv_features2d",
+      "abi": "x86",
+      "output": "E:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\x86\\libopencv_features2d.a"
+    },
+    "libopencv_videoio-Debug-x86": {
+      "artifactName": "libopencv_videoio",
+      "abi": "x86",
+      "output": "E:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\x86\\libopencv_videoio.a"
+    },
+    "facedetection_shared-Debug-x86": {
+      "artifactName": "facedetection_shared",
+      "buildCommand": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\.externalNativeBuild\\cmake\\debug\\x86 --target facedetection_shared",
+      "abi": "x86",
+      "output": "E:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libfacedetection.so"
+    },
+    "libopencv_ml-Debug-x86": {
+      "artifactName": "libopencv_ml",
+      "abi": "x86",
+      "output": "E:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\x86\\libopencv_ml.a"
+    },
+    "libopencv_flann-Debug-x86": {
+      "artifactName": "libopencv_flann",
+      "abi": "x86",
+      "output": "E:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\x86\\libopencv_flann.a"
+    },
+    "libopencv_objdetect-Debug-x86": {
+      "artifactName": "libopencv_objdetect",
+      "abi": "x86",
+      "output": "E:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\x86\\libopencv_objdetect.a"
+    },
+    "libopencv_java4-Debug-x86": {
+      "artifactName": "libopencv_java4",
+      "abi": "x86",
+      "output": "E:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\x86\\libopencv_java3.so"
+    },
+    "libopencv_stitching-Debug-x86": {
+      "artifactName": "libopencv_stitching",
+      "abi": "x86",
+      "output": "E:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\x86\\libopencv_stitching.a"
+    },
+    "libopencv_imgproc-Debug-x86": {
+      "artifactName": "libopencv_imgproc",
+      "abi": "x86",
+      "output": "E:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\x86\\libopencv_imgproc.a"
+    },
+    "libopencv_imgcodecs-Debug-x86": {
+      "artifactName": "libopencv_imgcodecs",
+      "abi": "x86",
+      "output": "E:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\x86\\libopencv_imgcodecs.a"
+    },
+    "facedetection-Debug-x86": {
+      "artifactName": "facedetection",
+      "buildCommand": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\.externalNativeBuild\\cmake\\debug\\x86 --target facedetection",
+      "abi": "x86",
+      "output": "E:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\.externalNativeBuild\\cmake\\debug\\x86\\libfacedetection.a"
+    },
+    "libopencv_highgui-Debug-x86": {
+      "artifactName": "libopencv_highgui",
+      "abi": "x86",
+      "output": "E:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\x86\\libopencv_highgui.a"
+    },
+    "libopencv_photo-Debug-x86": {
+      "artifactName": "libopencv_photo",
+      "abi": "x86",
+      "output": "E:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\x86\\libopencv_photo.a"
+    },
+    "libopencv_video-Debug-x86": {
+      "artifactName": "libopencv_video",
+      "abi": "x86",
+      "output": "E:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\x86\\libopencv_video.a"
+    },
+    "libopencv_core-Debug-x86": {
+      "artifactName": "libopencv_core",
+      "abi": "x86",
+      "output": "E:\\Workspace\\C++\\libfacedetection-master\\mobile\\Android\\app\\src\\main\\cpp\\..\\jniLibs\\x86\\libopencv_core.a"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+Executable : C:\Users\Lenovo\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+--build
+D:\Aprojects\Android_face_opengl_opencv\Android\app\.externalNativeBuild\cmake\release\armeabi-v7a
+--target
+facedetection_shared
+jvmArgs : 
+

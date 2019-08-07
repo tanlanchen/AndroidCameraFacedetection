@@ -1,0 +1,4 @@
+D:/Aprojects/Android_face_opengl_opencv/Android/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/facedetection.dir
+D:/Aprojects/Android_face_opengl_opencv/Android/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/Aprojects/Android_face_opengl_opencv/Android/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/facedetection_shared.dir
+D:/Aprojects/Android_face_opengl_opencv/Android/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
